@@ -2,6 +2,7 @@
 
 JWT-based authentication between a **Next.js** frontend ([Better-Auth](https://www.better-auth.com/)) and a **Go** backend, validated via JWKS.
 
+
 > Companion project to a [Dreams of Code](https://www.youtube.com/@dreamsofcode) video tutorial.
 
 ## Architecture
